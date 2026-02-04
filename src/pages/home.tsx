@@ -355,7 +355,7 @@ export default function LawFirmLanding() {
                     <div className="space-y-8">
                         <div className="animate-slide-in-left stagger-1">
                             <div className="inline-block px-4 py-1 bg-neutral-900 text-white text-sm mb-6" style={{ letterSpacing: '0.1em' }}>
-                                INICIA TU ASISTENTE LEGAL IA
+                                INICIA 
                             </div>
                             <h1 className="text-5xl md:text-6xl lg:text-7xl leading-tight mb-6"
                                 style={{ fontFamily: 'Playfair Display, serif', fontWeight: 600 }}>
